@@ -1,0 +1,5 @@
+/home/bwilab/FRIProjectHartful/FRI1FinalProject/Kinect_Code/build/CMakeFiles/edit_cache.dir
+/home/bwilab/FRIProjectHartful/FRI1FinalProject/Kinect_Code/build/CMakeFiles/rebuild_cache.dir
+/home/bwilab/FRIProjectHartful/FRI1FinalProject/Kinect_Code/build/src/CMakeFiles/KinectCode.dir
+/home/bwilab/FRIProjectHartful/FRI1FinalProject/Kinect_Code/build/src/CMakeFiles/edit_cache.dir
+/home/bwilab/FRIProjectHartful/FRI1FinalProject/Kinect_Code/build/src/CMakeFiles/rebuild_cache.dir
